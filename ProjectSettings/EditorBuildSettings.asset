@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginToPhotonServersScene.unity
+    guid: 3bcc0c3c1bb0c184988f6da07598d0cb
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: cfa4c22baea604043b013debedcdefbb
+  - enabled: 1
+    path: Assets/Scenes/DesertScene.unity
+    guid: 84878e42a9c61d543bddcc0a48eda944
+  - enabled: 1
+    path: Assets/Scenes/PongGameMultiplayer.unity
+    guid: 906dbb5dd83dde34a912c15fcd77cfd0
+  - enabled: 1
+    path: Assets/Scenes/PongGameHandTracking.unity
+    guid: 17023b532fbc22f47be5f8c2f359ffd5
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2febeb08b5732cc4faca1a953bcf6e37, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b2ad7abc898be0e4c8a8beb7b2e2eff2, type: 2}
